@@ -25,7 +25,8 @@ import java.util.Map;
  */
 public class GetMaxRepStr {
     public static void main(String[] args) {
-        String str = "abcabcabab";
+        //String str = "abcabcabab";
+        String str = "abcabcaba";
         System.out.printf("getMaxRepStr="+getMaxRepStr(str));
     }
 
