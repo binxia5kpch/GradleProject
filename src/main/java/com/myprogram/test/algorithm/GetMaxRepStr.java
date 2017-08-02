@@ -10,7 +10,7 @@ import java.util.Map;
  */
 public class GetMaxRepStr {
     public static void main(String[] args) {
-        String str = "abcabcaba";
+        String str = "abcabcabab";
         System.out.printf("getMaxRepStr="+getMaxRepStr(str));
     }
 
